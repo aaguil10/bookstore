@@ -3,7 +3,6 @@
 var mongoose = require('mongoose');
 var http = require('http');
 var url = require("url");
-//var htmlbody = require("./htmlbody");
 var router = require("./router");
 var upload = require("./upload");
 var index = require("./index");
