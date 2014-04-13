@@ -15,7 +15,7 @@ function htmlbody(){
     'Author: <input type="text" name="author"><br>' +
     'Description: <br><textarea name="text" rows="20" cols="60"></textarea>'+
 
-    '<input type="submit" value="Submit text" />'+
+    '<input type="submit" value="Submit text,title,author" />'+
     '</form>'+
     '</body>'+
     '<html>';
